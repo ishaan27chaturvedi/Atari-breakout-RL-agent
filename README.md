@@ -1,9 +1,9 @@
 # Atari-breakout-RL-agent
 
 Used Open AI's Gym to train the agent:
-http://gym.openai.com/docs/
-https://github.com/openai/baselines
-[Brockman et al., 2016] Brockman, G., Cheung, V., Pettersson, L., Schneider, J., Schulman, J., Tang, J., and Zaremba, W. (2016). OpenAI gym.
+<br>http://gym.openai.com/docs/
+<br>https://github.com/openai/baselines
+<br>[Brockman et al., 2016] Brockman, G., Cheung, V., Pettersson, L., Schneider, J., Schulman, J., Tang, J., and Zaremba, W. (2016). OpenAI gym.
 
 Used a basic implementation of the agent that can be found here:
 https://github.com/keras-team/keras-io/blob/master/examples/rl/deep_q_network_breakout.py
